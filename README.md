@@ -23,4 +23,6 @@ Repositório de exercícios realizados em estudo
 
 - 4 -Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas  
 
+[Link para as resolução dos exercícios](https://github.com/Psytch-01/Exercicios-Java/tree/main/src/exercicios/fundamentos) 
+
 ---
