@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7fbf2b5-8eec-4d3c-8bef-7e78983b9393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicios/abstracao/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioCinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDezesseis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDezessete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDezoito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDoze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioNove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioOito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioOnze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioQuatorze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioQuinze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioSeis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioSete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioTreze.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Exercicios-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios-Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Exercicios-Java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios-Java/README.md" afterDir="false" />
     </list>
@@ -45,31 +60,128 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AgeCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContaBancaria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IMCCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RestoZero.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Exercicios-Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AgeCalculator.executor": "Run",
+    "Application.ContaBancaria.executor": "Run",
+    "Application.DesafioSete.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.ExercicioCinco.executor": "Run",
+    "Application.ExercicioDez.executor": "Run",
+    "Application.ExercicioDezesseis.executor": "Run",
+    "Application.ExercicioDezessete.executor": "Run",
+    "Application.ExercicioDezoito.executor": "Run",
+    "Application.ExercicioDois.executor": "Run",
+    "Application.ExercicioDoze.executor": "Run",
+    "Application.ExercicioNove.executor": "Run",
+    "Application.ExercicioOito.executor": "Run",
+    "Application.ExercicioOnze.executor": "Run",
+    "Application.ExercicioQuatorze.executor": "Run",
+    "Application.ExercicioQuatro.executor": "Run",
+    "Application.ExercicioQuinze.executor": "Run",
+    "Application.ExercicioSeis.executor": "Run",
+    "Application.ExercicioSete.executor": "Run",
+    "Application.ExercicioTres.executor": "Run",
+    "Application.ExercicioTreze.executor": "Run",
+    "Application.ExercicioUm.executor": "Run",
+    "Application.IMCCalculator.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.RestoZero.executor": "Run",
+    "Application.StreamExercises.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Exercicios-Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="src.exercicios.abstracao" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.ExercicioDezoito">
+    <configuration name="ExercicioDezesseis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioDezesseis" />
+      <module name="Exercicios-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.exercicios.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioDezessete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioDezessete" />
+      <module name="Exercicios-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.exercicios.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioDezoito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioDezoito" />
+      <module name="Exercicios-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.exercicios.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioQuatorze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioQuatorze" />
+      <module name="Exercicios-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.exercicios.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioQuinze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioQuinze" />
+      <module name="Exercicios-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.exercicios.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExercicioDezoito" />
+        <item itemvalue="Application.ExercicioDezessete" />
+        <item itemvalue="Application.ExercicioQuatorze" />
+        <item itemvalue="Application.ExercicioDezesseis" />
+        <item itemvalue="Application.ExercicioQuinze" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -91,7 +203,13 @@
       <workItem from="1743365518954" duration="207000" />
       <workItem from="1744075745366" duration="7000" />
       <workItem from="1744075757744" duration="12293000" />
-      <workItem from="1744133284361" duration="2299000" />
+      <workItem from="1744133284361" duration="9972000" />
+      <workItem from="1744396885222" duration="4770000" />
+      <workItem from="1744422760789" duration="1091000" />
+      <workItem from="1744467011422" duration="8755000" />
+      <workItem from="1744487477446" duration="2938000" />
+      <workItem from="1744490690490" duration="3600000" />
+      <workItem from="1744495596246" duration="3752000" />
     </task>
     <servers />
   </component>
