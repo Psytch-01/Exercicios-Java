@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7fbf2b5-8eec-4d3c-8bef-7e78983b9393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioCinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDezesseis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDezessete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDezoito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioDoze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioNove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioOito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioOnze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioQuatorze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioQuinze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioSeis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioSete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/streams/ExercicioTreze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/aplicados/loja/application/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/aplicados/loja/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios/aplicados/loja/service/CatalogoProduto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Exercicios-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios-Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Exercicios-Java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios-Java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios-Java/src/exercicios/streams/ExercicioDezenove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios-Java/src/exercicios/streams/ExercicioDezenove.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +56,7 @@
     "Application.EvenOdd.executor": "Run",
     "Application.ExercicioCinco.executor": "Run",
     "Application.ExercicioDez.executor": "Run",
+    "Application.ExercicioDezenove.executor": "Run",
     "Application.ExercicioDezesseis.executor": "Run",
     "Application.ExercicioDezessete.executor": "Run",
     "Application.ExercicioDezoito.executor": "Run",
@@ -85,9 +74,11 @@
     "Application.ExercicioTreze.executor": "Run",
     "Application.ExercicioUm.executor": "Run",
     "Application.IMCCalculator.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.RestoZero.executor": "Run",
     "Application.StreamExercises.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -107,9 +98,9 @@
       <recent name="src.exercicios.abstracao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExercicioDezoito">
-    <configuration name="ExercicioDezesseis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioDezesseis" />
+  <component name="RunManager" selected="Application.main">
+    <configuration name="ExercicioDezenove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioDezenove" />
       <module name="Exercicios-Java" />
       <extension name="coverage">
         <pattern>
@@ -147,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioQuatorze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioQuatorze" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exercicios.abstracao.Main" />
       <module name="Exercicios-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.exercicios.streams.*" />
+          <option name="PATTERN" value="src.exercicios.abstracao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioQuinze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.exercicios.streams.ExercicioQuinze" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exercicios.aplicados.loja.application.main" />
       <module name="Exercicios-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.exercicios.streams.*" />
+          <option name="PATTERN" value="src.exercicios.aplicados.loja.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExercicioDezenove" />
         <item itemvalue="Application.ExercicioDezoito" />
         <item itemvalue="Application.ExercicioDezessete" />
-        <item itemvalue="Application.ExercicioQuatorze" />
-        <item itemvalue="Application.ExercicioDezesseis" />
-        <item itemvalue="Application.ExercicioQuinze" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +201,12 @@
       <workItem from="1744487477446" duration="2938000" />
       <workItem from="1744490690490" duration="3600000" />
       <workItem from="1744495596246" duration="3752000" />
+      <workItem from="1744499883402" duration="3042000" />
+      <workItem from="1744646533016" duration="3021000" />
+      <workItem from="1744752158277" duration="1828000" />
+      <workItem from="1744763572653" duration="2502000" />
+      <workItem from="1744805874890" duration="78000" />
+      <workItem from="1745112201546" duration="2754000" />
     </task>
     <servers />
   </component>
